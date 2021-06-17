@@ -6120,9 +6120,9 @@ postcss-values-parser@^2.0.0, postcss-values-parser@^2.0.1:
     uniq "^1.0.1"
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.17"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.17.tgz#4da1bdff5322d4a0acaab4d87f3e782436bad31f"
-  integrity sha512-546ZowA+KZ3OasvQZHsbuEpysvwTZNGJv9EfyCQdsIDltPSWHAeTQ5fQy/Npi2ZDtLI3zs7Ps/p6wThErhm9fQ==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -7802,10 +7802,10 @@ vue-star-rating@^1.6.1:
   resolved "https://registry.yarnpkg.com/vue-star-rating/-/vue-star-rating-1.6.1.tgz#160cf66e6af4597180fd2552df5d03d590ec40d4"
   integrity sha512-JSmVx16rcxyw4Ma6YQ5DnIExyjF4IFf/ypxh3zfmtFZzE/hjswDT0fLn1vF4ERxDbAp0nHA3u51BYFbA8gyYyQ==
 
-vue-stripe-elements-plus@^0.2.10:
-  version "0.2.10"
-  resolved "https://registry.yarnpkg.com/vue-stripe-elements-plus/-/vue-stripe-elements-plus-0.2.10.tgz#23d57600b33e75111875fdae71afd956e866a578"
-  integrity sha512-Raa6903zyqLBP+LbNDPVIewJgb675kIFU06PlMd/idZKHt8Xd1lSKDaysl6OxvVaZFiiJa8STXaSQ0urSz949w==
+vue-stripe-elements-plus@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/vue-stripe-elements-plus/-/vue-stripe-elements-plus-0.3.2.tgz#9b3835e1c61048a1405798ded66abe09f9d38084"
+  integrity sha512-Cuo+guUye1bHrwgQyU4Yb9mIEH+IKiz/QKNW7I70z1BWSIU0OjCgDHWcdBUDIgzLGip4/8FQqSa8IICKT+Lzmg==
   dependencies:
     lodash "^4.17.11"
 
